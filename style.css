@@ -1,0 +1,18 @@
+html{
+    background-color: lavender;
+}
+
+#me{
+    height: 200px;
+    position: relative;
+    top: 6%;
+    left: 6%;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    position: relative;
+    top: 6px;
+}
