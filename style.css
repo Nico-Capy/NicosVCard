@@ -4,7 +4,7 @@ html{
 
 #me{
     height: 350px;
-    position: absolute;
+    position: relative;
     top: 6%;
     left: 6%;
     border-radius: 50%;
@@ -13,7 +13,8 @@ html{
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
-    position: relative;
+    position:absolute;
     top: 6%;
+    left: 6%;
     text-align: center;
 }
